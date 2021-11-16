@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Science"
+    ],
+    [
+      "Engineering"
+    ],
+    [
+      "Teaching and Education",
+      "Higher Education"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3069cc28-b31e-9000-e3ac-1f88d33c39de"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Teaching College-Level Science and Engineering",
+  "course_description": "This participatory seminar focuses on the knowledge and skills necessary for teaching science and engineering in higher education. This course is designed for graduate students interested in an academic career, and anyone else interested in teaching. Readings and discussions include: teaching equations for understanding, designing exam and homework questions, incorporating histories of science, creating absorbing lectures, teaching for transfer, the evils of PowerPoint, and planning a course. The subject is appropriate for both novices and those with teaching experience.\n",
+  "department_numbers": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "18"
+  ],
+  "extra_course_numbers": "6.982J,7.59J,8.395J,18.094J",
+  "primary_course_number": "5.95J",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
